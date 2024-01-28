@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.Form1.resources
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.Properties.Resources.resources
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\bin\Debug\miskariskatwo.exe.config
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\bin\Debug\miskariskatwo.exe
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\bin\Debug\miskariskatwo.pdb
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.csproj.CopyComplete
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.exe
+C:\Users\User\source\repos\miskariskatwo\miskariskatwo\obj\Debug\miskariskatwo.pdb
